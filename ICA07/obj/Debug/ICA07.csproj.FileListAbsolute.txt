@@ -1,0 +1,11 @@
+C:\Users\khain\OneDrive\Documents\CMPE1666\ICA07\ICA07\bin\Debug\ICA07.exe.config
+C:\Users\khain\OneDrive\Documents\CMPE1666\ICA07\ICA07\bin\Debug\ICA07.exe
+C:\Users\khain\OneDrive\Documents\CMPE1666\ICA07\ICA07\bin\Debug\ICA07.pdb
+C:\Users\khain\OneDrive\Documents\CMPE1666\ICA07\ICA07\obj\Debug\ICA07.csproj.AssemblyReference.cache
+C:\Users\khain\OneDrive\Documents\CMPE1666\ICA07\ICA07\obj\Debug\ICA07.csproj.SuggestedBindingRedirects.cache
+C:\Users\khain\OneDrive\Documents\CMPE1666\ICA07\ICA07\obj\Debug\ICA07.Form1.resources
+C:\Users\khain\OneDrive\Documents\CMPE1666\ICA07\ICA07\obj\Debug\ICA07.Properties.Resources.resources
+C:\Users\khain\OneDrive\Documents\CMPE1666\ICA07\ICA07\obj\Debug\ICA07.csproj.GenerateResource.cache
+C:\Users\khain\OneDrive\Documents\CMPE1666\ICA07\ICA07\obj\Debug\ICA07.csproj.CoreCompileInputs.cache
+C:\Users\khain\OneDrive\Documents\CMPE1666\ICA07\ICA07\obj\Debug\ICA07.exe
+C:\Users\khain\OneDrive\Documents\CMPE1666\ICA07\ICA07\obj\Debug\ICA07.pdb
